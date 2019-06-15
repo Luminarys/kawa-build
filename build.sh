@@ -108,9 +108,9 @@ download \
     "https://github.com/xiph/ogg/archive/"
 
 download \
-  "n3.3.2.tar.gz" \
-  "ffmpeg3.3.2.tar.gz" \
-  "e13966acf7770e319b6b306054156d1a" \
+  "n4.1.3.tar.gz" \
+  "ffmpeg4.1.3.tar.gz" \
+  "0192fd36ca1554de955fd4017946329c" \
   "https://github.com/FFmpeg/FFmpeg/archive"
 
 download \
